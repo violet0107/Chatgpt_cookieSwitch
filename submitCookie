@@ -1,1 +1,8 @@
-
+[
+    {
+        "id": "001",
+        "name": "mail1",
+        "isPlus": "1",
+        "value": "qw2er"
+    }
+]
